@@ -1,3 +1,2 @@
 Diet planner
-Its a full stack website made using mongodb, expressjs and nodejs.
-A macros planner which helps you in staying fit.
+Made usign MERN stack as using js for front-end and back-end to help user get their BMI and food suggections 
